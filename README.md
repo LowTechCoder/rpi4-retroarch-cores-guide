@@ -31,14 +31,14 @@ Since RetroArch ignores some files while using the Manual Scan, with the Raspber
 
 > Import Content > Manual Scan > Content Directory > [the path you found above]
 
->    System Name > [ScummVM]
+> $~$ System Name > [ScummVM]
 
->    Default Core > [ScummVM]
+> $~$ Default Core > [ScummVM]
 
->    File Extensions > [your run file file extension, mine was 'ini']
+> $~$ File Extensions > [your run file file extension, mine was 'ini']
 
 Scanning Recursively cluttered up my ScummVM Playlist with about 100 files, so lets turn this off.
 
->    Scan Recursively > [no]
+> $~$ Scan Recursively > [no]
 
 Select 'Start Scan'
