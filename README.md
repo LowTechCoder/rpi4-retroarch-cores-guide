@@ -23,4 +23,22 @@ This core you may encounter some audio issues if the Run ahead mode is on or too
 
 > [Game Running] > Overrides > Save Core Overrides
 
+## ScummVM importing issues
 
+If ScummVM gives you issues on the import like Curse of Monkey Island did for me, you may can try this.
+
+Since RetroArch ignores some files while using the Manual Scan, with the Raspberry Pi File Manager, find the directory where the game file is. For me it was an AUTORUN.INF file. Remember where that path is.
+
+> Import Content > Manual Scan > Content Directory > [the path you found above]
+
+> System Name > [ScummVM]
+
+> Default Core > [ScummVM]
+
+> File Extensions > [your run file file extension, mine was 'ini']
+
+Scanning Recursively cluttered up my ScummVM Playlist with about 100 files, so lets turn this off.
+
+> Scan Recursively > [no]
+
+Select 'Start Scan'
