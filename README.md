@@ -57,3 +57,8 @@ Save those settings.
 
 Turn Run-Ahead off for ScummVM games. I don't see any issues with having it on except the warning message that pops up every time a ScummVM game is run.
 
+> [Game Running] > Latency > Run-Ahead to Reduce Latency > [off]
+
+> [Game Running] > Overrides > Save Core Overrides
+
+
