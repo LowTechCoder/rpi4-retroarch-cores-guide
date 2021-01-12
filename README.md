@@ -49,3 +49,7 @@ Ok, you can be done at this point, but I like to take it further and Rename that
 
 > ScummVM > [Game] > Rename [Curse of Monkey Island]
 
+Save those settings.
+
+> Main Menu > Configuration File > Save Current Configuration
+
