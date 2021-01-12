@@ -35,10 +35,17 @@ Since RetroArch ignores some files while using the Manual Scan, with the Raspber
 
 > ... Default Core > [ScummVM]
 
-> ... File Extensions > [your run file file extension, mine was 'ini']
+> ... File Extensions > [this didn't work for me, so leave this empty]
 
 Scanning Recursively cluttered up my ScummVM Playlist with about 100 files, so lets turn this off.
 
 > ... Scan Recursively > [no]
 
 Select 'Start Scan'
+
+Now that should have added your game along with a few other unwanted files to the ScummVM playlist.  Lets clean that list up by selecting each of those files you don't need and select 'Remove'
+
+Ok, you can be done at this point, but I like to take it further and Rename that AUTORUN file in my ScummVM playlist.
+
+> ScummVM > [Game] > Rename [Curse of Monkey Island]
+
