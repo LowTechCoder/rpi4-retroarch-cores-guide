@@ -1,4 +1,4 @@
-# rpi4-retroarch-cores-guide
+# Raspberry Pi 4 RetroArch Cores Guide
 
 
 ## Playstation graphical improvements
