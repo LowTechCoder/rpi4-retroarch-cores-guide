@@ -16,7 +16,7 @@ Retropie has good documentation on which cores needs which BIOS files:
 
 https://retropie.org.uk/docs/Playstation-1/. 
 
-Heres the ones I found that worked the best for me.  I just added them all, and the emulator should choose the best.  
+These worked the best for me.  I just added them all, and the emulator should choose the best.  
 
 * scph5500 - 3.0 NTSC-J
 * scph5501 - 3.0 NTSC-U/C
