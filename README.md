@@ -13,8 +13,11 @@ This next one may not be needed with the added power of the Raspberry Pi 4, but 
 ### Games not working
 If your game isn't working, theres a good chance you will need to search around the internets to find what's called a BIOS file.  
 Retropie has good documentation on which cores needs which BIOS files:  
+
 https://retropie.org.uk/docs/Playstation-1/. 
+
 Heres the ones I found that worked the best for me.  I just added them all, and the emulator should choose the best.  
+
 scph5500 - 3.0 NTSC-J
 scph5501 - 3.0 NTSC-U/C
 scph5502 - 3.0 PAL
