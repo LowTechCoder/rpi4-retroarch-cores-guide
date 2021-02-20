@@ -26,6 +26,15 @@ If you place those BIOS files on a thumbdrive, here is the command to copy those
 ```
 cp /media/pi/RA-DATA/scph550* /home/pi/snap/retroarch/427/.config/retroarch/system/
 ```
+### Menu items missing (like Save State) after switching disc
+If your playing a game like Metal Gear Solid, that uses multiple disc, you'll need to load the second disc at some point, like this:
+
+> [Game Running] > Disc Control > Load New Disc > [choose a disc]
+> 
+Once you do this, the menu will be missing some items, so press the Cancel button to go back, and then find the Quick Menu under the Main Menu, and there you will find all the menu items.
+
+> Main Menu > Quick Menu
+
 
 ## Nintendo - Game Boy Advance (VBA Next)
 
